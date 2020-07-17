@@ -34,6 +34,7 @@
 ![1](https://cdn.jsdelivr.net/gh/izzp/LibraryManageSystem/img/16.png)
 ![1](https://cdn.jsdelivr.net/gh/izzp/LibraryManageSystem/img/17.png)
 
+
 ## 系统功能描述
 为了操作人员使用本系统更加的便利，本系统的功能模块分为以下操作：
 
